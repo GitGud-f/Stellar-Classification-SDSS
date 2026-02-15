@@ -85,7 +85,7 @@ The **Decision Tree classifier is the best-performing model** for this task, wit
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/k3rnel-paN1c5/stellar-classification.git](https://github.com/k3rnel-paN1c5/stellar-classification.git)
+    git clone [https://github.com/GitGud-f/stellar-classification.git](https://github.com/k3rnel-paN1c5/stellar-classification.git)
     cd stellar-classification
     ```
 2.  **Install dependencies** (see below).
